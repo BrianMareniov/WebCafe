@@ -1,5 +1,5 @@
 body {
-  background-image: url("img/fondo.jpg");
+  background-image: url("fondo.jpg");
   /* Opciones adicionales para el fondo */
   background-size: cover; /* Para que la imagen se ajuste al tamaño del viewport */
   background-position: center; /* Para centrar la imagen */
